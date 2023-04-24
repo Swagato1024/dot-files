@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/swagatochakraborty/workspace/javaScript/nodeJs/arrays-and-strings-Swagato1024'
+let g:netrw_dirhist_1='/Users/swagatochakraborty'
+let g:netrw_dirhist_0='/Users/swagatochakraborty/workspace/javaScript/nodeJs/arrays-and-strings-Swagato1024/src'
+let g:netrw_dirhist_9='/Users/swagatochakraborty/workspace/javaScript/nodeJs/command-line-args/src'
+let g:netrw_dirhist_8='/Users/swagatochakraborty/workspace/javaScript/nodeJs/gitPractice/greeting/hello.txt'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_6='/bin'
+let g:netrw_dirhist_5='/Users/swagatochakraborty/workspace'
+let g:netrw_dirhist_4='/Users/swagatochakraborty/project/source_export_jump/notes'
+let g:netrw_dirhist_3='/Users/swagatochakraborty/project/automated_testing/test_increment'
