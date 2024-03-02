@@ -114,3 +114,24 @@ source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 PATH=$PATH:/Users/swagatochakraborty/bin
+
+# export PATH="/usr/local/opt/openjdk@8/bin:$PATH"
+# export CPPFLAGS="-I/usr/local/opt/openjdk@8/include"
+
+export PATH="/usr/local/opt/openjdk@11/bin:$PATH"
+export CPPFLAGS="-I/usr/local/opt/openjdk@11/include"
+
+# export PATH="/usr/local/opt/openjdk@17/bin:$PATH"
+#  export CPPFLAGS="-I/usr/local/opt/openjdk@17/include"
+
+# export PATH="/usr/local/bin:$PATH"
+# export CPPFLAGS="-I/usr/local/opt/openjdk@11/include"
+export JAVA_HOME=/usr/local/Cellar/openjdk@11/11.0.21/libexec/openjdk.jdk/Contents/Home
+
+export NVM_DIR="$HOME/.nvm"
+  [ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+
+export GIT_SSL_NO_VERIFY=true
+
+export TALISMAN_HOME=/Users/swagatochakraborty/.talisman/bin 

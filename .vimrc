@@ -109,3 +109,10 @@ colorscheme OceanicNext
 
 " source vimrc
 nnoremap <leader>sv :source $MYVIMRC<cr>
+
+"airline
+let g:airline#extensions#tabline#enabled = 1
+
+"testFrame work
+inoremap  <leader>t  it('should ', function() {<cr>strictEqual(actual, expected);<cr>});
+
